@@ -1,0 +1,13 @@
+{
+    "name": "muffin/prelaunch",
+    "description": "Easily pre-launch any CakePHP 3 web application",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jad Bitar",
+            "email": "bitarjad@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
